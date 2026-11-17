@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "cowork24": {
+      "type": "http",
+      "url": "https://mcp.cowork24.ch/mcp/app"
+    },
+    "cowork24-account": {
+      "type": "http",
+      "url": "https://mcp.cowork24.ch/mcp"
+    }
+  }
+}

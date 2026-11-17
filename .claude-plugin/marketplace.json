@@ -1,0 +1,24 @@
+{
+  "name": "cowork24",
+  "owner": {
+    "name": "Pinnacle Interactive GmbH",
+    "email": "support@cowork24.ch",
+    "url": "https://www.cowork24.ch"
+  },
+  "description": "The official cowork24.ch plugin: find, compare and book workspaces in Switzerland.",
+  "plugins": [
+    {
+      "name": "cowork24",
+      "source": "./plugins/cowork24",
+      "description": "Find, compare and book coworking desks, offices, meeting rooms and airport lounges on cowork24.ch, with live prices and availability. Payment always happens on cowork24.ch.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "tags": [
+        "coworking",
+        "booking",
+        "travel",
+        "switzerland"
+      ]
+    }
+  ]
+}
